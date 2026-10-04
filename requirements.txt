@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+requests
+langdetect
+torch
+transformers
+sentencepiece
+IndicTransToolkit
